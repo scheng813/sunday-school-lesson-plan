@@ -1,0 +1,19 @@
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Deps / cache
+node_modules/
+.opencode/cache/
+
+# Secrets
+.env
+.env.*
+*.local
